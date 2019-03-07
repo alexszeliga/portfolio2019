@@ -1,0 +1,19 @@
+{
+  "name": "portfolio2019",
+  "version": "1.0.0",
+  "description": "Professional Portfolio for Alex Szeliga",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexszeliga/portfolio2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexszeliga/portfolio2019/issues"
+  },
+  "homepage": "https://github.com/alexszeliga/portfolio2019#readme"
+}
